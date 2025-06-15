@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "hello_world",
+			"path": "."
+		},
+		{
+			"path": "../../my_boards/boards/PDNeuro"
+		}
+	],
+	"settings": {}
+}
