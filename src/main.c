@@ -10,6 +10,7 @@ int main(void)
 {
 	printf("Hello World! %s\n", CONFIG_BOARD_TARGET);
 	printf("Modified main code %s\n", CONFIG_BOARD_TARGET);
+	printf("Modified main code 3rd time %s\n", CONFIG_BOARD_TARGET);
 
 	return 0;
 }
